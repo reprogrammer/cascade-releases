@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/checker.framework.cascade_1.1.0.201405041848.jar" id="checker.framework.cascade" version="1.1.0.201405041848">
-      <category name="Cascade"/>
+   <feature url="features/checker.framework.cascade_1.1.0.201411011803.jar" id="checker.framework.cascade" version="1.1.0.201411011803">
+      <category name="checker.framework.eclipse.update.site.category"/>
    </feature>
-   <category-def name="Cascade" label="Cascade"/>
+   <category-def name="checker.framework.eclipse.update.site.category" label="Cascade"/>
 </site>
